@@ -18,3 +18,14 @@ for i in range(a):
 
 for result in results:
     print(reverse_number(result))
+
+'''Sample input: 
+3
+24 1
+4358 754
+305 794
+
+Sample output:
+34
+1998
+1'''
