@@ -12,8 +12,7 @@ for i in range(a):
     x, y = map(int, input().split())
     x = reverse_number(x)
     y = reverse_number(y)
-    result = reverse_number(x + y)
-    print(result)
+    result = (x + y)
     results.append(result)
 
 for result in results:
